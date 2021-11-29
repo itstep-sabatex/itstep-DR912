@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Microsoft Edge and open the Edge DevTools",
+            "request": "launch",
+            "type": "vscode-edge-devtools.debug",
+            "url": "C:/Users/serhi/source/repos/sabatex/DR912/Index.html" // Provide your project's url to finish configuring
+        }
+    ]
+}
